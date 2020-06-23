@@ -1,0 +1,13 @@
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\bin\Debug\netcoreapp3.1\GuessingNumberExrecise.exe
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\bin\Debug\netcoreapp3.1\GuessingNumberExrecise.deps.json
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\bin\Debug\netcoreapp3.1\GuessingNumberExrecise.runtimeconfig.json
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\bin\Debug\netcoreapp3.1\GuessingNumberExrecise.runtimeconfig.dev.json
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\bin\Debug\netcoreapp3.1\GuessingNumberExrecise.dll
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\bin\Debug\netcoreapp3.1\GuessingNumberExrecise.pdb
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\obj\Debug\netcoreapp3.1\GuessingNumberExrecise.csprojAssemblyReference.cache
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\obj\Debug\netcoreapp3.1\GuessingNumberExrecise.AssemblyInfoInputs.cache
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\obj\Debug\netcoreapp3.1\GuessingNumberExrecise.AssemblyInfo.cs
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\obj\Debug\netcoreapp3.1\GuessingNumberExrecise.csproj.CoreCompileInputs.cache
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\obj\Debug\netcoreapp3.1\GuessingNumberExrecise.dll
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\obj\Debug\netcoreapp3.1\GuessingNumberExrecise.pdb
+C:\Users\vanes\repos\GuessingNumberExrecise\GuessingNumberExrecise\obj\Debug\netcoreapp3.1\GuessingNumberExrecise.genruntimeconfig.cache
